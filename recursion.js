@@ -31,7 +31,7 @@ function fib(n) {
 
 // checking the results
 console.log(`The fourth term in the Fibonacci Sequence is: ${fib(4)}`); // should print 3 in the console
-console.log(`The tenth term in the Fibonacci Sequence is: ${fib(4)}`); // should print 55 in the console
+console.log(`The tenth term in the Fibonacci Sequence is: ${fib(10)}`); // should print 55 in the console
 
 // looping through the Fibonacci sequence from 0-10 and
 // printing it in the HTML
